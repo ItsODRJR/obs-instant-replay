@@ -1,5 +1,7 @@
 # OBS Instant Replay
 
+Vibecoded for RBML Media, if you can make use of it yourself, that's awesome, and I encourge you to use and improve it.
+
 A custom in-memory replay engine for OBS Studio, built for **live sports**. It
 keeps the last N seconds of the program feed as *encoded* video in a RAM ring
 buffer and plays it back through a custom async source — skipping the
